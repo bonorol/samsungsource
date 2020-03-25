@@ -18,3 +18,4 @@ resource "azurerm_subnet" "myterraformsubnet" {
 
 #test
 #test2 by philhocho
+#jjh
