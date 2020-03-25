@@ -15,3 +15,5 @@ resource "azurerm_subnet" "myterraformsubnet" {
     virtual_network_name = azurerm_virtual_network.myterraformnetwork.name
     address_prefix       = "10.10.2.0/24"
 }
+
+#test
